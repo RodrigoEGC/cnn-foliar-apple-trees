@@ -18,7 +18,7 @@ Treinar um modelo usando imagens de conjunto de dados de treinamento para:
 
 ### Libs
 
-Esta seção listar as principais estruturas/bibliotecas usadas no projeto.
+Principais estruturas/bibliotecas usadas no projeto.
 
 * [Python](https://www.python.org/)
 * [Numpy](https://numpy.org/)
