@@ -20,15 +20,17 @@ Treinar um modelo usando imagens de conjunto de dados de treinamento para:
 
 Esta seção listar as principais estruturas/bibliotecas usadas no projeto.
 
-* [![Python][https://www.python.org/]][Python-url]
-* [![numpy][https://numpy.org/]][Numpy-url]
-* [![Pandas][https://pandas.pydata.org/]][Pandas-url]
-* [![Matplotlib][https://matplotlib.org/]][Matplotlib-url]
-* [![Tensorflow][https://www.tensorflow.org/?hl=pt-br]][Tensor-url]
-* [![keras][https://www.tensorflow.org/guide/keras?hl=pt-br]][Keras-url]
+* [Python](https://www.python.org/)
+* [Numpy](https://numpy.org/)
+* [Pandas](https://pandas.pydata.org/)
+* [Matplotlib](https://matplotlib.org/)
+* [Tensorflow](https://www.tensorflow.org/?hl=pt-br)
+* [keras](https://www.tensorflow.org/guide/keras?hl=pt-br)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+### Installation
 
 <div align="center">
   <br/>
@@ -39,5 +41,5 @@ Esta seção listar as principais estruturas/bibliotecas usadas no projeto.
       <sub>Copyright © 2023 - <a href="https://github.com/RodrigoEGC">RodrigoEGC</sub></a>
     </div>
     <br/>
-    💖
+    🤘
 </div>
