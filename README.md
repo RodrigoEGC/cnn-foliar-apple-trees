@@ -31,6 +31,14 @@ Esta seção listar as principais estruturas/bibliotecas usadas no projeto.
 
 
 ### Installation
+1. Clone the repo
+   ```sh
+   ```
+
+
+<!-- REFERENCES -->
+### References
+[https://www.youtube.com/watch?v=aKp2DCQM2Ik](https://www.youtube.com/watch?v=aKp2DCQM2Ik)
 
 <div align="center">
   <br/>
