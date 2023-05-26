@@ -1,5 +1,5 @@
 <h1 align="center">
-📄<br>Classificação das doenças na folhas de macieiras
+📄<br>Classificação das patologias em folhas de macieiras
 </h1>
 
 ## 📚 Sobre
